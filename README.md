@@ -2,7 +2,7 @@
 
 Welcome to the hardware and firmware repository for **SandVault**. 
 
-This repository is strictly dedicated to the **Proof of Concept (PoC) physical prototype** developed during the AlgoFest Hackathon 2026. Its purpose is to physically validate the thermodynamic heat transfer ($Q = mc\Delta T$) from a solid medium (sand) to a liquid loop (water) using an ESP32 for telemetry.
+This repository is dedicated to the Proof of Concept (PoC) physical prototype of SandVault. Its purpose is to physically validate the thermodynamic heat transfer ($Q = mc\Delta T$) from a solid medium (sand) to a liquid loop (water) using an ESP32 for real-time telemetry. This implementation serves as the hardware foundation for our scalable thermal energy storage solution.
 
 ---
 
